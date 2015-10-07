@@ -1,6 +1,6 @@
-# Кириллический RobotoDraft Web Font
+# Кириллический RobotoDraft
 
-Для любителей чистого Sans и Material Design.
+Web Font для любителей чистого Sans и Material Design.
 
 Использовать:
 
