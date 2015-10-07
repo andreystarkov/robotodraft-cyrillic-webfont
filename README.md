@@ -23,6 +23,6 @@
   .light { font-weight: 300; } /* RobotoDraft Light */
   .thin { font-weight: 200; } /* RobotoDraft Thin */
 ```
-[Посмотреть демо](https://lab.andreystarkov.ru/robotodraft-webfont)
+[Посмотреть демо](https://lab.andreystarkov.ru/robotodraft)
 
 [Скачать Webfont](https://github.com/andreystarkov/robotodraft-cyrillic-webfont/archive/master.zip)
